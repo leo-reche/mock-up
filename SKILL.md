@@ -12,4 +12,4 @@ Do not to make any changes to existing code before I ask you to, but try to impl
 
 If I ask for multiple alternatives, you can code them always comparing them to the original or to the reference. In this case you can code a quick switcher to toggle between the different alternatives for easy comparison.
 
-
+After mocking up you do not need to test your mocks on the browser. The user will tell you whenever anything is not working as expected.
